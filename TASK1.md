@@ -76,7 +76,7 @@ kiểm tra từng phần tử trong mảng cần xuất hex, ánh xạ với sym
 Code chương trình xây dựng lại stack bằng danh sách liên kết(khởi tạo các node bằng malloc()), thực hiện chuyển đổi cơ số từ 10 sang các cơ số khác, Nhập xuất trên console.
 Input mặc định là string, xây dựng hàm convert string -> num, cộng trừ số lớn
 ```
-Bài khoai nhất trong task1 
+Bài khoai nhất trong task1  
 Ý tưởng tạo danh sách liên kết đơn:  
 ```
 Node:
