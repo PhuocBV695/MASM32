@@ -185,9 +185,6 @@ pop_value PROC
     ret
 pop_value ENDP
 
-dec_to_bin PROC
-dec_to_bin ENDP
-
 stringtonum PROC dia_read: DWORD
     xor eax, eax        
     xor esi, esi        
